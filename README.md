@@ -13,6 +13,8 @@ The <i>requirements.txt</i> lists the packages that would need to be installed t
 The folder <b>TheWatsonNotes</b> contains the data.
 
 ### 3. Notebooks:
-There are two main notebooks that take us through the murder mystery and its resolution, <b>HolmesNarrates.ipynb</b> and <b>WatsonVerifies.ipynb</b>.
+There main notebook that take us through the murder mystery and its resolution, <b>HolmesNarrates.ipynb</b>.
 
 ### 4. Movie Script:
+
+TBD
