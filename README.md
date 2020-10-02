@@ -5,14 +5,14 @@
 ### 1. Installation and Running the Code:
 
 The <i>requirements.txt</i> lists the packages that would need to be installed to run the notebook. The steps would be to first clone the repo and pip install the requirements. So, from the command line: <br>
-1. git clone https://github.com/nityamd/MonteCarloMurderMystery-PyGothamTV2020<br>
+<i>1. git clone https://github.com/nityamd/MonteCarloMurderMystery-PyGothamTV2020<br>
 2. cd MonteCarloMurderMystery-PyGothamTV2020 <br>
-3. pip3 install -r requirements.txt <br>
+3. pip3 install -r requirements.txt <br></i>
 
 ### 2. Data and Helper Functions:
 The folder <b>TheWatsonNotes</b> contains the data.
 
 ### 3. Notebooks:
-There are two main notebooks that take us through the murder mystery and its resolution, HolmesNarrates.ipynb and WatsonVerifies.ipynb.
+There are two main notebooks that take us through the murder mystery and its resolution, <b>HolmesNarrates.ipynb</b> and <b>WatsonVerifies.ipynb</b>.
 
 ### 4. Movie Script:

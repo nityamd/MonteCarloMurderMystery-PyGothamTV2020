@@ -5,10 +5,10 @@ suspect_names = ['Viscountess Bae Zhun',  'Major Viktor Ljutenitsa', 'Ms Ingrid 
                  'Lady Barbara Bloomington', 'Mr. Miles Murdoch', 'Mr. Stan Hamilton','Python']
 
 
-df = pd.DataFrame({suspects: suspect_names})
+df = pd.DataFrame({'suspects': suspect_names})
 df['alibi'] = [0,0,1,0,0,1,1,1,0,1]
 df['archery'] = [1,1,1,1,1,1,0,0,0,0]
 df['inheritance'] = [1,0,0,0,0,0,0,0,1,0]
-df['suspicion'] = [0,1,1,1,1,1,0,0,1,0]
+df['suspicion'] = [1,1,1,1,1,1,0,0,1,0]
 df['animosity'] = [1,0,0,1,0,0,0,1,1,0]
-df.to_csv('1_Watson_Interviews.csv', index = False)
+df.to_csv('../TheWatsonNotes/1_Watson_Interviews.csv', index = False)
